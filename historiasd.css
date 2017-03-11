@@ -1,0 +1,52 @@
+.cabecera{ text-align: center;
+        font-family: serif ; 
+        font-size: 60px;
+        background-color: #084C81; 
+        color: #fff; 
+         border-style:solid;
+        border-color: 000000;
+        
+}
+#menu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    font-family: Arial;
+    font-size: 15pt;
+    margin-top: -3;
+     border-style:solid;
+    border-color: 000000;
+}
+#menu ul li {
+    background-color: #084C81;
+    
+}
+#menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+}
+#menu ul li a:hover {
+    background: #498EC3;
+    border-left: 5px solid #000000;
+    color: #fff;
+}
+
+.contenido{
+        font-family: sans-serif;
+        font-size: 20px;
+        text-align: justify;
+        padding: 80px 80px ;
+        float: left;
+        color: #fff;
+        text-align:top;
+    }
+.imagen{padding: 200px;
+
+}
+
+    
+body{background-image: url(imagenes/fondohis.jpg);}
