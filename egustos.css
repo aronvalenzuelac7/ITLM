@@ -39,15 +39,14 @@
         font-family: sans-serif;
         font-size: 20px;
         text-align: justify;
-        padding: 10px 80px ;
+        padding: 80px 80px ;
         float: left;
         color: #fff;
         text-align:top;
     }
-.imagen{padding:10px;
-        
+.imagen{padding: 50px;
 
 }
 
     
-body{background-image: url(imagenes/fondoper.jpg);}
+body{background-image: url(imagenes/fondobio.jpg);}
